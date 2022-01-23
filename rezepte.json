@@ -11,6 +11,6 @@
     "titel": "Pfannkuchen",
     "zutaten": ["Eier" ,"Milch","Mehl","Sprudelwasser"]
     "schritte": ["Alles verrühren","In einer Pfanne braten"]
-    "bild":
+    "bild":"https://github.com/Arne10/mockjson/blob/main/pfannkuchen2.jpg"
   },
 ]
