@@ -2,15 +2,16 @@
   {
     "id": 1,
     "title": "Müsli",
-    "zutaten": ["Apfel" ,"Banane","Haferflocken","Milch"]
-    "schritte": ["Schneide das Obst in Stücke","Fülle Milch und Haferflocken in eine Schüssel","Tue das Obst hinzu"]
+    "zutaten": [{"1": "Apfel"} ,{"2": "Banane"},{"3": "Haferflocken"},{"4": "Milch"}]
+    "schritte": [{"1": "Schneide das Obst in Stücke"} ,{"2": "Fülle Milch und Haferflocken in eine Schüssel"} ,{"3": "Tue das Obst hinzu"}]
     "bild":"https://via.placeholder.com/600/92c952"
   },
   {
     "id": 2,
     "title": "Pfannkuchen",
-    "zutaten": ["Eier" ,"Milch","Mehl","Sprudelwasser"]
-    "schritte": ["Alles verrühren","In einer Pfanne braten"]
+    "zutaten": [{"1": "Eier"} ,{"2": "Milch"},{"3": "Sprudelwasser"},{"4": "Mehl"}]
+    "schritte": [{"1": "Schneide das Obst in Stücke"} ,{"2": "Fülle Milch und Haferflocken in eine Schüssel"} ,{"3": "Tue das Obst hinzu"}]
+    
     "url":"https://via.placeholder.com/600/92c952"
   },
 ]
