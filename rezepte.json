@@ -4,7 +4,7 @@
     "titel": "Müsli",
     "zutaten": ["Apfel" ,"Banane","Haferflocken","Milch"]
     "schritte": ["Schneide das Obst in Stücke","Fülle Milch und Haferflocken in eine Schüssel","Tue das Obst hinzu"]
-    "bild":
+    "bild":"https://github.com/Arne10/mockjson/blob/main/muesli2.jpg"
   },
   {
     "id": 2,
