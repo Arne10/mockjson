@@ -4,14 +4,13 @@
     "title": "Muesli",
     "zutaten": [{"1": "Apfel"} ,{"2": "Banane"},{"3": "Haferflocken"},{"4": "Milch"}],
     "schritte": [{"1": "Schneide das Obst in Stuecke"} ,{"2": "Fuelle Milch und Haferflocken in eine Schuessel"} ,{"3": "Tue das Obst hinzu"}],
-    "bild":"https://via.placeholder.com/600/92c952"
+    "url":"https://via.placeholder.com/600/92c952"
   },
   {
     "id": 2,
     "title": "Pfannkuchen",
     "zutaten": [{"1": "Eier"} ,{"2": "Milch"},{"3": "Sprudelwasser"},{"4": "Mehl"}],
     "schritte": [{"1": "Schneide das Obst in Stuecke"} ,{"2": "Fuelle Milch und Haferflocken in eine Schuessel"} ,{"3": "Tue das Obst hinzu"}],
-    
-    "url":"https://via.placeholder.com/600/92c952"
+    "url": "https://via.placeholder.com/600/92c952"
   }
 ]
