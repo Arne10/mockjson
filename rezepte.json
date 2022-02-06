@@ -2,21 +2,21 @@
   {
     "id": 0,
     "title": "Muesli",
-    "zutaten": {"name":["Apfel" ,"Banane","Haferflocken", "Milch"],"anzahl":{"1 Liter","1 Liter","1 Liter","1 Liter",}},
+    "zutaten": {"name":["Apfel" ,"Banane","Haferflocken", "Milch"],"anzahl":["1 Liter","1 Liter","1 Liter","1 Liter"]},
     "schritte": [{"1": "Schneide das Obst in Stuecke"} ,{"2": "Fuelle Milch und Haferflocken in eine Schuessel"} ,{"3": "Tue das Obst hinzu"}],
     "url": "https://raw.githubusercontent.com/Arne10/mockjson/main/muesli2.jpg"
   },
   {
     "id": 1,
     "title": "Pfannkuchen",
-    "zutaten": {"name":["Eier" ,"Milch", "Sprudelwasser", "Mehl"],"anzahl":{"1 Liter","1 Liter","1 Liter","1 Liter",}},
+    "zutaten": {"name":["Eier" ,"Milch", "Sprudelwasser", "Mehl"],"anzahl":["1 Liter","1 Liter","1 Liter","1 Liter"]},
     "schritte": [{"1": "Schneide das Obst in Stuecke"} ,{"2": "Fuelle Milch und Haferflocken in eine Schuessel"} ,{"3": "Tue das Obst hinzu"}],
     "url": "https://raw.githubusercontent.com/Arne10/mockjson/main/pfannkuchen2.jpg"
   },
   {
     "id": 2,
     "title": "Kartoffelsalat",
-    "zutaten": {"name":["Eier" , "Milch","Sprudelwasser","Mehl"],"anzahl":{"1 Liter","1 Liter","1 Liter","1 Liter",}},
+    "zutaten": {"name":["Eier" , "Milch","Sprudelwasser","Mehl"],"anzahl":["1 Liter","1 Liter","1 Liter","1 Liter"]},
     "schritte": [{"1": "Schneide das Obst in Stuecke"} ,{"2": "Fuelle Milch und Haferflocken in eine Schuessel"} ,{"3": "Tue das Obst hinzu"}],
     "url": "https://raw.githubusercontent.com/Arne10/mockjson/main/kartoffelsalat.jpg"
   }
